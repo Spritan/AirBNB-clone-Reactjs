@@ -1,0 +1,29 @@
+.Hero--img--container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-block: 4em;
+}
+
+.Hero--content {
+    margin: 0 20%;
+}
+
+.Hero--title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 3em;
+    line-height: 110%;
+}
+
+.Hero--para {
+    width: 16em;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 1.7em;
+    line-height: 110%;
+}<link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
